@@ -5,7 +5,3 @@ Shopping list:
 - Cherries;
 - Carrots;
 - Strawberries;
-
-
-
-Fixing the shopping list
